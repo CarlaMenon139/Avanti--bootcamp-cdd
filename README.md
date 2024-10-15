@@ -12,3 +12,4 @@ Além de servir como uma análise descritiva, ele pode ser uma ferramenta de pre
 
 Os dados podem ser usados para criar benchmarks de preços para diferentes categorias de diamantes. Isso pode ajudar joalherias ou investidores a avaliar rapidamente se o preço de um diamante é razoável para o mercado, baseado em seu peso, cor, clareza e corte.
 ![Gráfico do Projeto](grafico.png)
+![Descrição do gráfico](Grafico.png)
